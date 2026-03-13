@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS--38B2AC?style=flat-square&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Status-开发中-orange?style=flat-square" />
 </p>
+
 ## 组织简介
 **QuillStack-Blog** 是专注于维护「QuillStack」静态博客模板的开源组织，该模板由 `SnowBall-Bqiu` 发起，基于 Next.js 构建，专为个人开发者、技术博主打造，兼顾性能与视觉体验，支持灵活的自定义配置和标准的 Markdown 文章管理。
 
