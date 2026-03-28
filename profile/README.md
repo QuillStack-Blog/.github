@@ -27,6 +27,7 @@
 | QuillStack | [https://github.com/QuillStack-Blog/QuillStack](https://github.com/QuillStack-Blog/QuillStack) | 主模板仓库，包含完整的 Next.js 项目代码、配置文件、文章管理逻辑 |
 | web-site | [https://github.com/QuillStack-Blog/web-site](https://github.com/QuillStack-Blog/web-site) | 模板配套演示站点，基于 TypeScript 开发 |
 
+**想看看QuillStack的Demo？ [点此瞅瞅吧](https://demo.qs.js.cn)**
 ## 快速开始
 ### 环境要求
 - Node.js 18+
